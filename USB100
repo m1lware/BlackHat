@@ -1,0 +1,12 @@
+I'm lazy and always look for the easiest way to get the flag. So, before doing anything else, I go to
+https://gchq.github.io/CyberChef/
+to try and extract the files. I found an exe file there:
+https://gyazo.com/303fb57847a3564cb2daa8c67a9301fe
+When I run it in CMD, I get the flag:
+https://gyazo.com/7ff36679098f10a21ead9425be1db77c
+
+BHflagy{1d3cbfa0e052b1729a00950e9fc0f61a3f393bc97c0c74c8ecab1b58cd0f95c32e4c970bdfa6e23371d50680ca0c37f61f7206974d20d5cbb2f00151f4735dde}
+
+
+
+
